@@ -1,0 +1,83 @@
+h2 {
+    text-align: center;
+}
+
+#SecondPG{
+    height: 450px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    background-image: url(https://w0.peakpx.com/wallpaper/61/202/HD-wallpaper-anime-ghost-girl-piano.jpg) ;
+    background-size: 110%;
+    font-style: italic;
+    color: rgb(58, 0, 70);
+}
+
+
+
+#DivIno {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+}
+
+
+#Wat {
+   
+    height: 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#Val {
+  font-size: 12px;
+  margin-right: 5%;
+}
+
+#Star {
+    width: 49%; 
+}
+
+svg {
+    top: 100%;
+    position: relative;
+    color: rgb(199, 199, 30);
+}
+
+#list {
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+}
+
+#butt {
+    margin-top: 10%;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 70%;
+}
+
+#Divinus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 80%;
+}
+
+
+div img {
+   height: 350px;
+   width: 350px
+   ; 
+}
+
